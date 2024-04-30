@@ -1,5 +1,5 @@
 # Dots and Boxes Simulator
-## Cpts 440 Final Project
+### Cpts 440 Final Project
 
 ## Introduction
 
@@ -24,6 +24,7 @@ By playing against the various AIs, it’s clear that the Minimax algorithm is s
 Having developed and evaluated the performance of the Dots and Boxes simulator with various algorithms, allowing us to understand gameplay strategies, approaches, and algorithm performance. Using the Random and Greedy algorithms as starting benchmarks assisted in further analyzing the Minimax algorithm to determine the necessary methods to increase its performance. The depth limiting and alpha-beta pruning helped in improving the speed at which the Minimax algorithm was able to determine the next move, increasing the ability for faster, more enjoyable gameplay. Additionally, the gameplay improvements that the Minimax algorithm had over the other algorithms allows for the AI in the game to be a worthy opponent. This allows the simulator to be used in many ways, including but not limited to a gameplay trainer or a casual form of entertainment. 
 
 ## Authors
-Clancy Andrews
-Ethan Nelson
-Daniel Ochoa
+
+* Clancy Andrews
+* Ethan Nelson
+* Daniel Ochoa
